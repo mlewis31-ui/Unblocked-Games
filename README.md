@@ -35,4 +35,4 @@
 
 ---
 
-##Html code for every game will be released seperatly
+## Html code for every game will be released seperatly
