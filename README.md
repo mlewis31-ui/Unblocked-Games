@@ -1,6 +1,5 @@
 # 🎮 Unblocked Games Hub 🚀
 
-![Banner](https://images.unsplash.com/photo-1605902711622-cfb43c44367f?q=80&w=1600&auto=format&fit=crop)
 
 > The ultimate collection of **unblocked games** you can play anywhere — school, work, or wherever you're stuck 💀
 
@@ -28,8 +27,12 @@
 
 ---
 
-## 🚀 How to Use
+## How to Access
+1. Open the Google Doc link
+2. Click on the file link for what ever Game you want to play
+3. Download the Google Drive file
+4. CLick/open the Download to play the game
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/unblocked-games.git
+---
+
+##Html code for every game will be released seperatly
