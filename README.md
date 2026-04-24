@@ -36,7 +36,7 @@ https://docs.google.com/document/d/1wqQJXiXFcno_ROSwhUrPojsaWXCrkSmbx6zJ64S5CE8/
 1. Open the Google Doc link
 2. Click on the file link for what ever Game you want to play
 3. Download the Google Drive file
-4. CLick/open the Download to play the game
+4. Click/open the Download to play the game
 
 ---
 
